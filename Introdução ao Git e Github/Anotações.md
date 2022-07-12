@@ -1,6 +1,6 @@
 # Anotações de comandos de Git
 
-## Site para ver comandos de .md: https://www.markdownguide.org/basic-syntax
+### Site para ver comandos de .md: https://www.markdownguide.org/basic-syntax
 
 cls ou clear -> limpa a tela  
 cd *nome da pasta* -> entra na pasta  
