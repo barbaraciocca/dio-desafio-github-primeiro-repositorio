@@ -6,7 +6,7 @@ cls ou clear -> limpa a tela
 cd *nome da pasta* -> entra na pasta  
 echo -> printa o texto  
 mkdir -> para criar uma nova pasta (mkdir *nome da pasta*)  
-ls ou dir -: lista de todas as pastas de onde estuo situada  
+ls ou dir -> lista de todas as pastas de onde estuo situada  
 tecla TAB -> completa nomes das pastas  
 seta ^ -> busca comandos usados antes  
 cd / -> vai dentro do diretório do comando C  
